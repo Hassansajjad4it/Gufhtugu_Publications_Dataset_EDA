@@ -17,8 +17,8 @@ The
 ## Features
 
 - Data Visulaization
-- Live previews
-- Fullscreen mode
-- Cross platform
+- Data Analysis
+- EDA
+- Report
 
   
