@@ -16,7 +16,7 @@ The
   
 ## Features
 
-- Data Visulaization
+- Data Visualization
 - Data Analysis
 - EDA
 - Report
