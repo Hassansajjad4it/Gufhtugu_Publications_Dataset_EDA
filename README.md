@@ -25,5 +25,7 @@ The
 ## Acknowledgements
 - [Zeeshan-ul-hassan Usmani](https://www.kaggle.com/zusmani/gufhtugu-publications-dataset-challenge)
 
-  
+
+## For Connection
+- [Hassan Sajjad](https://www.linkedin.com/in/hassan-sajjad-193157b7/)
   
