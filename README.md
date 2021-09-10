@@ -8,6 +8,12 @@ valuable insights and make decisions on the basis of those insights
 
 ![Logo](https://gufhtugu.com/wp-content/uploads/2019/10/gufhtugu-2.png)
 
+# Important Steps:
+- Data Loading
+- Data Wragling
+- Data Processing
+- Data Analysis
+
     
 ## Documentation
 The 
