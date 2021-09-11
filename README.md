@@ -12,7 +12,7 @@ valuable insights and make decisions on the basis of those insights
 - Data Loading
 - Data Wragling
 - Data Processing
-- Data Analysis
+- Analyzing the Data
 
     
 ## Documentation
