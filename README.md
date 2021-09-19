@@ -13,7 +13,7 @@ valuable insights and make decisions on the basis of those insights
 - Data Wragling
 - Data Processing
 - Analyzing the Data
-- Interpreating Results
+- Interpreating the Results
 
     
 ## Documentation
