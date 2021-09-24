@@ -26,7 +26,7 @@ The
 - Data Visualization
 - Data Analysis
 - EDA
-- Analysis of Report
+- Analysis of the Report
 
 
 ## Acknowledgements
