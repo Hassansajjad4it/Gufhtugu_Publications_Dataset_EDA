@@ -2,7 +2,7 @@
 # Gufhtugu_Publications_Dataset_EDA
 
 The purpose of this project to perform exploratory data analysis on ecommerce dataset to get
-valuable insights and make decisions on the basis of those insights
+valuable insights and make decisions on the basis of those insights.
 
 
 
